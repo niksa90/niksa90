@@ -7,7 +7,7 @@ I tinker and build, explore and automate. Lately that's mostly AI agents and the
 ### Building
 - **[toolmenu](https://github.com/niksa90/toolmenu)**: tests MCP servers the way agents and clients meet them: the menu, the calls, the results, the sign-in, and every release after. Deterministic, no LLM, runs in CI. ([why I built it](https://niksa.me/toolmenu))
   `npx toolmenu snapshot -- node dist/server.js`
-- **[Keephub nodes for n8n](https://n8n.io/integrations/keephub/)**: the official Keephub integration for n8n ([source](https://github.com/RetailInTouch/n8n-nodes-keephub), built from my work account [@niksa-KH](https://github.com/niksa-KH))
+- **[Keephub nodes for n8n](https://n8n.io/integrations/keephub/)**: the official Keephub integration for n8n ([source](https://n8n.io/integrations/keephub/), built from my work account [@niksa-KH](https://github.com/niksa-KH))
 - **[mermaid-for-jira](https://github.com/niksa90/mermaid-for-jira)**: editable Mermaid diagrams on Jira issues, rendered natively. Runs on Forge's free tier: no server, no bill.
 
 ### Writing
